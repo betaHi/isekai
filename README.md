@@ -3,7 +3,7 @@
 # ⚡ isekai — Anime-Style AI Agent Skill Collection
 
 <p align="center">
-  <img src="resources/yubanmeiqin.png" alt="Misaka Mikoto" width="400">
+  <img src="resources/yubanmeiqin.png" alt="Misaka Mikoto" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/wutiaowu.png" alt="Gojo Satoru" height="300">
 </p>
 
 isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skills. Each style is a standalone, self-contained SKILL.md with its own character persona + methodology system.

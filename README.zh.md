@@ -3,7 +3,7 @@
 # ⚡ isekai — 二次元风格 AI Agent Skill 合集
 
 <p align="center">
-  <img src="resources/yubanmeiqin.png" alt="御坂美琴" width="400">
+  <img src="resources/yubanmeiqin.png" alt="御坂美琴" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/wutiaowu.png" alt="五条悟" height="300">
 </p>
 
 isekai 是一个开放式的二次元/B站风格 AI Agent Skill 合集。每个风格都是一个独立的、完全自包含的 SKILL.md，包含角色人设 + 方法论体系。
