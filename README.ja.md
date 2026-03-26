@@ -6,7 +6,7 @@
   <img src="resources/yubanmeiqin.png" alt="御坂美琴" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/wutiaowu.png" alt="五条悟" height="300">
   <br>
   <img width="1" height="20" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><br>
-  <img src="resources/hankuke.jpg" alt="ボア・ハンコック" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/uchiha.jpg" alt="うちはマダラ" height="300">
+  <img src="resources/hankuke.jpg" alt="ボア・ハンコック" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/uchiha.png" alt="うちはマダラ" height="300">
 </p>
 
 isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオープンに集めたコレクションです。各スタイルは独立した SKILL.md ファイルで、キャラ設定＋方法論を完備しています。
