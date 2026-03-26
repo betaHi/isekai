@@ -1,4 +1,4 @@
-**[English](README.en.md)** | **日本語** | **[中文](README.md)**
+**[English](README.md)** | **日本語** | **[中文](README.zh.md)**
 
 # ⚡ isekai — 二次元スタイル AI Agent Skill コレクション
 
@@ -37,24 +37,23 @@ isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオ
 
 | コマンド | 効果 |
 |---------|------|
-| `/isekai:railgun` | 御坂美琴スタイルを起動 |
-| `/isekai:gojo` | 五条悟スタイルを起動 |
+| `/isekai:railgun-ja` | 御坂美琴スタイルを起動（日本語） |
+| `/isekai:gojo-ja` | 五条悟スタイルを起動（日本語） |
 
 各スタイルは以下のサフィックスに対応：
-- `-loop` — タスク完了まで自動イテレーション
-- `-on` — セッション中ずっと有効化
+- （サフィックスなし）— 中文版
+- `-en` — English version
+- `-ja` — 日本語版
 
 共通コマンド：
 - `/isekai:level-up` — 手動で次のレベルへ昇格
 
 ### 例
 
-railgun の場合：
-
 ```
-/isekai:railgun        # 1回だけ起動
-/isekai:railgun-loop   # 起動して自動イテレーション
-/isekai:railgun-on     # セッション中ずっと有効化
+/isekai:railgun-ja     # 日本語 御坂美琴
+/isekai:railgun-en     # English Misaka Mikoto
+/isekai:railgun        # 中文版御坂美琴
 ```
 
 ## デモ
@@ -72,7 +71,7 @@ railgun の場合：
 - **Lv.1** ビリビリ通常モード — ツンデレで通常業務
 - **Lv.2** 能力覚醒！ — アプローチ変更、前提の再確認
 - **Lv.3** レールガン発射！ — 全面検索、ソースコード解読
-- **Lv.4** 暗部（アイテム）起動 — 冷静＆効率的、7点チェックリスト
+- **Lv.4** 暗部起動 — 冷静＆効率的、7点チェックリスト
 - **Lv.5** アクセラレータ・モード — 最終レポート、誠実な引き継ぎ
 
 ### 科学サイド vs 魔術サイド
