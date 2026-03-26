@@ -20,6 +20,7 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 | ⚡ Railgun | `railgun` | Misaka Mikoto | Tsundere powerhouse · Science-side thinking |
 | 👁️ Unlimited Void | `gojo` | Gojo Satoru | Overpowered & carefree · Jujutsu sorcerer |
 | 👑 Mero Mero no Mi | `hancock` | Boa Hancock | Domineering empress · Devil Fruit + Haki |
+| 👁️ Rinnegan | `uchiha` | Uchiha Madara | Composed dominance · Sharingan + Six Paths |
 
 ## Installation
 
@@ -44,6 +45,7 @@ After installation, use the following commands:
 | `/isekai:railgun-en` | Activate Misaka Mikoto style (English) |
 | `/isekai:gojo-en` | Activate Gojo Satoru style (English) |
 | `/isekai:hancock-en` | Activate Boa Hancock style (English) |
+| `/isekai:uchiha-en` | Activate Uchiha Madara style (English) |
 
 Each style supports these suffixes:
 - (no suffix) — 中文版
