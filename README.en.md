@@ -21,17 +21,15 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 
 ### Claude Code
 
-```bash
-claude install-skill github:betaHi/isekai/skills/railgun
+```
+/plugin install github:betaHi/isekai
 ```
 
-```bash
-claude install-skill github:betaHi/isekai/skills/gojo
-```
+One command installs all styles.
 
 ### Manual
 
-Copy `skills/railgun/SKILL.md` to your skill directory.
+Copy `agents/skills/<style>/SKILL.md` to your skill directory.
 
 ## Usage
 
@@ -74,7 +72,7 @@ Auto-escalates when hitting obstacles — from tsundere girl to cold-blooded ope
 
 New styles are welcome! To add one:
 
-1. Create `skills/<style-code>/SKILL.md`
+1. Create `agents/skills/<style-code>/SKILL.md`
 2. Define: character persona, methodology, escalation system, auto-triggers, command system
 3. Open a PR
 

@@ -21,17 +21,15 @@ isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオ
 
 ### Claude Code
 
-```bash
-claude install-skill github:betaHi/isekai/skills/railgun
+```
+/plugin install github:betaHi/isekai
 ```
 
-```bash
-claude install-skill github:betaHi/isekai/skills/gojo
-```
+1つのコマンドですべてのスタイルをインストールできます。
 
 ### 手動インストール
 
-`skills/railgun/SKILL.md` をスキルディレクトリにコピーしてください。
+`agents/skills/<スタイル>/SKILL.md` をスキルディレクトリにコピーしてください。
 
 ## 使い方
 
@@ -74,7 +72,7 @@ claude install-skill github:betaHi/isekai/skills/gojo
 
 新しいスタイルの貢献を歓迎します！手順：
 
-1. `skills/<スタイルコード>/SKILL.md` を作成
+1. `agents/skills/<スタイルコード>/SKILL.md` を作成
 2. SKILL.md にキャラ設定・方法論・エスカレーション・自動検知・コマンドを定義
 3. PR を提出
 
