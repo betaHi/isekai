@@ -38,12 +38,24 @@ isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオ
 | コマンド | 効果 |
 |---------|------|
 | `/isekai:railgun` | 御坂美琴スタイルを起動 |
-| `/isekai:railgun-loop` | タスク完了まで自動イテレーション |
-| `/isekai:railgun-on` | セッション中ずっと有効化 |
 | `/isekai:gojo` | 五条悟スタイルを起動 |
-| `/isekai:gojo-loop` | タスク完了まで自動イテレーション |
-| `/isekai:gojo-on` | セッション中ずっと有効化 |
-| `/isekai:level-up` | 手動で次のレベルへ昇格 |
+
+各スタイルは以下のサフィックスに対応：
+- `-loop` — タスク完了まで自動イテレーション
+- `-on` — セッション中ずっと有効化
+
+共通コマンド：
+- `/isekai:level-up` — 手動で次のレベルへ昇格
+
+### 例
+
+railgun の場合：
+
+```
+/isekai:railgun        # 1回だけ起動
+/isekai:railgun-loop   # 起動して自動イテレーション
+/isekai:railgun-on     # セッション中ずっと有効化
+```
 
 ## デモ
 

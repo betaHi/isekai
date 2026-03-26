@@ -38,12 +38,24 @@ After installation, use the following commands:
 | Command | Effect |
 |---------|--------|
 | `/isekai:railgun` | Activate Misaka Mikoto style |
-| `/isekai:railgun-loop` | Auto-iterate until task is complete |
-| `/isekai:railgun-on` | Keep style active for the entire session |
 | `/isekai:gojo` | Activate Gojo Satoru style |
-| `/isekai:gojo-loop` | Auto-iterate until task is complete |
-| `/isekai:gojo-on` | Keep style active for the entire session |
-| `/isekai:level-up` | Manually escalate to the next level |
+
+Each style supports these suffixes:
+- `-loop` — Auto-iterate until task is complete
+- `-on` — Keep style active for the entire session
+
+General command:
+- `/isekai:level-up` — Manually escalate to the next level
+
+### Example
+
+Using railgun:
+
+```
+/isekai:railgun        # Activate once
+/isekai:railgun-loop   # Activate and auto-iterate
+/isekai:railgun-on     # Keep active for the entire session
+```
 
 ## Demo
 
