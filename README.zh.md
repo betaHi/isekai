@@ -1,4 +1,4 @@
-**[English](README.md)** | **[日本語](README.ja.md)** | **中文**
+**中文** | **[English](README.md)** | **[日本語](README.ja.md)**
 
 # ⚡ isekai — 二次元风格 AI Agent Skill 合集
 

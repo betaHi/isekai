@@ -1,4 +1,4 @@
-**English** | **[日本語](README.ja.md)** | **[中文](README.zh.md)**
+**[中文](README.zh.md)** | **English** | **[日本語](README.ja.md)**
 
 # ⚡ isekai — Anime-Style AI Agent Skill Collection
 
