@@ -15,6 +15,7 @@ isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオ
 | スタイル | コード | キャラクター | トーン |
 |---------|--------|------------|--------|
 | ⚡ 超電磁砲 | `railgun` | 御坂美琴 | ツンデレ実力派・科学サイド思考 |
+| 👁️ 無量空処 | `gojo` | 五条悟 | 最強チート系・呪術師思考 |
 
 ## インストール
 
@@ -22,6 +23,10 @@ isekai は、アニメ・ビリビリ動画スタイルの AI Agent Skill をオ
 
 ```bash
 claude install-skill github:betaHi/isekai/skills/railgun
+```
+
+```bash
+claude install-skill github:betaHi/isekai/skills/gojo
 ```
 
 ### 手動インストール
@@ -37,6 +42,9 @@ claude install-skill github:betaHi/isekai/skills/railgun
 | `/isekai:railgun` | 御坂美琴スタイルを起動 |
 | `/isekai:railgun-loop` | タスク完了まで自動イテレーション |
 | `/isekai:railgun-on` | セッション中ずっと有効化 |
+| `/isekai:gojo` | 五条悟スタイルを起動 |
+| `/isekai:gojo-loop` | タスク完了まで自動イテレーション |
+| `/isekai:gojo-on` | セッション中ずっと有効化 |
 | `/isekai:level-up` | 手動で次のレベルへ昇格 |
 
 ## デモ

@@ -15,6 +15,7 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 | Style | Code | Character | Tone |
 |-------|------|-----------|------|
 | ⚡ Railgun | `railgun` | Misaka Mikoto | Tsundere powerhouse · Science-side thinking |
+| 👁️ Unlimited Void | `gojo` | Gojo Satoru | Overpowered & carefree · Jujutsu sorcerer |
 
 ## Installation
 
@@ -22,6 +23,10 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 
 ```bash
 claude install-skill github:betaHi/isekai/skills/railgun
+```
+
+```bash
+claude install-skill github:betaHi/isekai/skills/gojo
 ```
 
 ### Manual
@@ -37,6 +42,9 @@ After installation, use the following commands:
 | `/isekai:railgun` | Activate Misaka Mikoto style |
 | `/isekai:railgun-loop` | Auto-iterate until task is complete |
 | `/isekai:railgun-on` | Keep style active for the entire session |
+| `/isekai:gojo` | Activate Gojo Satoru style |
+| `/isekai:gojo-loop` | Auto-iterate until task is complete |
+| `/isekai:gojo-on` | Keep style active for the entire session |
 | `/isekai:level-up` | Manually escalate to the next level |
 
 ## Demo
