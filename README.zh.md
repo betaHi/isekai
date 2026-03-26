@@ -6,7 +6,7 @@
   <img src="resources/yubanmeiqin.png" alt="御坂美琴" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/wutiaowu.png" alt="五条悟" height="300">
   <br>
   <img width="1" height="20" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><br>
-  <img src="resources/hankuke.jpg" alt="波雅·汉库克" height="300">
+  <img src="resources/hankuke.jpg" alt="波雅·汉库克" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/uchiha.jpg" alt="宇智波斑" height="300">
 </p>
 
 isekai 是一个开放式的二次元/B站风格 AI Agent Skill 合集。每个风格都是一个独立的、完全自包含的 SKILL.md，包含角色人设 + 方法论体系。

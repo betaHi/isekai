@@ -6,7 +6,7 @@
   <img src="resources/yubanmeiqin.png" alt="Misaka Mikoto" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/wutiaowu.png" alt="Gojo Satoru" height="300">
   <br>
   <img width="1" height="20" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><br>
-  <img src="resources/hankuke.jpg" alt="Boa Hancock" height="300">
+  <img src="resources/hankuke.jpg" alt="Boa Hancock" height="300"><img width="60" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><img src="resources/uchiha.jpg" alt="Uchiha Madara" height="300">
 </p>
 
 isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skills. Each style is a standalone, self-contained SKILL.md with its own character persona + methodology system.
