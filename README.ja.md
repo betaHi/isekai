@@ -39,6 +39,12 @@ claude install-skill github:betaHi/isekai/skills/railgun
 | `/isekai:railgun-on` | セッション中ずっと有効化 |
 | `/isekai:level-up` | 手動で次のレベルへ昇格 |
 
+## デモ
+
+<p align="center">
+  <img src="resources/demo-railgun.png" alt="Railgun Demo" width="700">
+</p>
+
 ## 特徴
 
 ### 覚醒＋暗部起動エスカレーション

@@ -39,6 +39,12 @@ After installation, use the following commands:
 | `/isekai:railgun-on` | Keep style active for the entire session |
 | `/isekai:level-up` | Manually escalate to the next level |
 
+## Demo
+
+<p align="center">
+  <img src="resources/demo-railgun.png" alt="Railgun Demo" width="700">
+</p>
+
 ## Features
 
 ### Awakening + Dark-Side Escalation

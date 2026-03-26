@@ -39,6 +39,12 @@ claude install-skill github:betaHi/isekai/skills/railgun
 | `/isekai:railgun-on` | 始终激活模式 |
 | `/isekai:level-up` | 手动升级到下一等级 |
 
+## 运行效果
+
+<p align="center">
+  <img src="resources/demo-railgun.png" alt="Railgun Demo" width="700">
+</p>
+
 ## 特色
 
 ### 觉醒 + 暗部激活体系
