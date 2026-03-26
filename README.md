@@ -1,6 +1,10 @@
+**[English](README.en.md)** | **[日本語](README.ja.md)** | **中文**
+
 # ⚡ isekai — 二次元风格 AI Agent Skill 合集
 
-> 不是 PUA，不是 NoPUA，是异世界。
+<p align="center">
+  <img src="resources/yubanmeiqin.png" alt="御坂美琴" width="400">
+</p>
 
 isekai 是一个开放式的二次元/B站风格 AI Agent Skill 合集。每个风格都是一个独立的、完全自包含的 SKILL.md，包含角色人设 + 方法论体系。
 
