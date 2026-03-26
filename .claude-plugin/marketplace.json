@@ -1,0 +1,18 @@
+{
+  "name": "isekai",
+  "description": "二次元風格 AI Agent Skill 合集",
+  "owner": {
+    "name": "betaHi"
+  },
+  "plugins": [
+    {
+      "name": "isekai",
+      "description": "二次元風格 AI Agent Skill 合集 — 让 AI agent 更可靠也更有趣",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "betaHi"
+      }
+    }
+  ]
+}

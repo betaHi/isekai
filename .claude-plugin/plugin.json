@@ -1,0 +1,12 @@
+{
+  "name": "isekai",
+  "description": "二次元風格 AI Agent Skill 合集 — 让 AI agent 更可靠也更有趣",
+  "version": "1.0.0",
+  "author": {
+    "name": "betaHi"
+  },
+  "homepage": "https://github.com/betaHi/isekai",
+  "repository": "https://github.com/betaHi/isekai",
+  "license": "MIT",
+  "keywords": ["anime", "jujutsu-kaisen", "railgun", "gojo", "agent-skills"]
+}
