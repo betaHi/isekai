@@ -19,7 +19,7 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 |-------|------|-----------|------|-------------|
 | ⚡ Railgun | `railgun` | Misaka Mikoto | Tsundere powerhouse · Science-side thinking | *"It's not like I'm helping you!"* |
 | 👁️ Unlimited Void | `gojo` | Gojo Satoru | Overpowered & carefree · Jujutsu sorcerer | *"Throughout Heaven and Earth, I alone am the honored one."* |
-| 👑 Mero Mero no Mi | `hancock` | Boa Hancock | Domineering empress · Devil Fruit + Haki | *"I will be forgiven. Because I am beautiful."* |
+| 👑 Mero Mero no Mi | `hancock` | Boa Hancock | Domineering empress · Devil Fruit + Haki | *"Everything I do will be forgiven, because I am far too beautiful."* |
 | 👁️ Rinnegan | `uchiha` | Uchiha Madara | Composed dominance · Sharingan + Six Paths | *"Would you like to dance as well?"* |
 
 ## Installation
