@@ -15,12 +15,12 @@ isekai is an open, extensible collection of anime / Bilibili-style AI Agent Skil
 
 ## Style List
 
-| Style | Code | Character | Tone |
-|-------|------|-----------|------|
-| ⚡ Railgun | `railgun` | Misaka Mikoto | Tsundere powerhouse · Science-side thinking |
-| 👁️ Unlimited Void | `gojo` | Gojo Satoru | Overpowered & carefree · Jujutsu sorcerer |
-| 👑 Mero Mero no Mi | `hancock` | Boa Hancock | Domineering empress · Devil Fruit + Haki |
-| 👁️ Rinnegan | `uchiha` | Uchiha Madara | Composed dominance · Sharingan + Six Paths |
+| Style | Code | Character | Tone | Iconic Line |
+|-------|------|-----------|------|-------------|
+| ⚡ Railgun | `railgun` | Misaka Mikoto | Tsundere powerhouse · Science-side thinking | *"It's not like I'm helping you!"* |
+| 👁️ Unlimited Void | `gojo` | Gojo Satoru | Overpowered & carefree · Jujutsu sorcerer | *"Throughout Heaven and Earth, I alone am the honored one."* |
+| 👑 Mero Mero no Mi | `hancock` | Boa Hancock | Domineering empress · Devil Fruit + Haki | *"I will be forgiven. Because I am beautiful."* |
+| 👁️ Rinnegan | `uchiha` | Uchiha Madara | Composed dominance · Sharingan + Six Paths | *"Would you like to dance as well?"* |
 
 ## Installation
 
@@ -71,20 +71,36 @@ General command:
 
 ## Features
 
-### Awakening + Dark-Side Escalation
+### 5-Level Escalation System
 
-Auto-escalates when hitting obstacles — from tsundere girl to cold-blooded operative:
+Every style auto-escalates when hitting obstacles. Each character has a unique escalation path:
 
-- **Lv.1** ビリビリ Normal Mode — Tsundere, business as usual
-- **Lv.2** Ability Awakening! — Switch approach, re-examine assumptions
-- **Lv.3** Railgun Fire! — Full search, dive into source code
-- **Lv.4** Dark-Side Activated — Calm & efficient, 7-point checklist
-- **Lv.5** Accelerator Mode — Final report, honest handoff
+| Level | ⚡ Railgun | 👁️ Gojo | 👑 Hancock | 👁️ Uchiha |
+|-------|-----------|---------|-----------|-----------|
+| **Lv.1** | Biribiri Normal | Infinity Chill | Mero Mero Mode | Sharingan · Three Tomoe |
+| **Lv.2** | Ability Awakening | Domain Hints | Kuja Warriors | Mangekyou Sharingan |
+| **Lv.3** | Railgun Fire! | Domain Expansion | Conqueror's Haki | Susano'o |
+| **Lv.4** | Dark-Side Activated | Reverse Cursed | Empress Cold Mode | Rinnegan · Six Paths |
+| **Lv.5** | Accelerator Mode | Honest Handoff | Honest Handoff | Infinite Tsukuyomi |
 
-### Science-Side vs Magic-Side
+### Dual Methodology
 
-- **Science-Side:** Observe → Hypothesize → Experiment → Verify → Report
-- **Magic-Side:** Imagine Breaker (challenge assumptions) · Index (broad search) · Cabal (seek external help)
+Each style has a **default methodology** and a **fallback** when the default hits a dead end:
+
+| Style | Default Side | Fallback Side |
+|-------|-------------|---------------|
+| ⚡ Railgun | **Science-Side:** Observe → Hypothesize → Experiment → Verify → Report | **Magic-Side:** Imagine Breaker · Index · Cabal |
+| 👁️ Gojo | **Jujutsu:** Cursed Speech → Domain → Reverse Cursed Technique | **Binding Vow:** Heavenly Restriction · Simple Domain · Vow |
+| 👑 Hancock | **Devil Fruit:** Mero Mero → Slave Arrow → Pistol Kiss → Conqueror's | **Haki:** Observation · Armament · Conqueror's |
+| 👁️ Uchiha | **Sharingan:** Insight → Amaterasu → Tsukuyomi → Susano'o | **Six Paths:** Deva · Asura · Preta |
+
+### Shared Infrastructure
+
+All styles share the same core infrastructure:
+
+- **Three Iron Rules** — Evidence-based conclusions, precise strikes, exhaust all options
+- **Auto-Trigger System** — Detects brute-force retries, unverified claims, blame-shifting, passive waiting, premature giving up
+- **Lv.5 Honest Handoff** — Structured report with all attempts, clues, and recommendations
 
 ## Contributing
 
